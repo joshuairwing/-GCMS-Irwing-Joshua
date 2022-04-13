@@ -3,3 +3,4 @@
 ## Colaboradores
 
 * Irwing Joshua (dono, @joshuairwing)
+* Ramide Dantas (@ramidedantas)
