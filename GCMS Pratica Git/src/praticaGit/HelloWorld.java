@@ -6,6 +6,10 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		
 		System.out.println("Modificação.1");
+		
+		System.out.println("Modificação: Branch hotfix");
+		
+		System.out.println("Modificação: Voltando pra branch main");
 
 	}
 
